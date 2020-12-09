@@ -40,7 +40,7 @@ beta <- (2*pi)/L
 lambda <- beta*a
 
 
-tolerence <- 0.0001       #tolerence for stopping criterion
+tolerence <- 0.0001       
 
 x<-as.matrix(c(L,a))     # putting the two variables in a vector
 
